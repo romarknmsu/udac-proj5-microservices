@@ -10,9 +10,8 @@ jobs:
       - image: python:3.7.3-stretch
     working_directory: ~/repo
     steps:
-      - checkout:
-          post:
-            - pip install -U pip setuptools virtualenv
+      - checkout
+
       # Download and cache dependencies
       - restore_cache:
           keys:
