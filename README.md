@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/romarknmsu/udac-proj5-microservices.svg?style=svg)](https://circleci.com/gh/romarknmsu/udac-proj5-microservices)
+
+
 # udac-proj5-microservices
 Udacity Project 5 Microservices at Scale using AWS &amp; Kubernetes
 # hello
