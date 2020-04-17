@@ -9,7 +9,8 @@ Forwarding from [::1]:8000 -> 80
 Handling connection for 8000
 Handling connection for 8000
 
-ec2-user:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ kubectl logs udacproj-76f4f56dd6-jpqlz
+######$ kubectl logs udacproj-76f4f56dd6-jpqlz
+
  * Serving Flask app "app" (lazy loading)
  * Environment: production
    WARNING: Do not use the development server in a production environment.
